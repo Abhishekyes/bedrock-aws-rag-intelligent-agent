@@ -1,0 +1,6 @@
+langchain
+pydfc
+streamlit
+faiss-cpu
+pandas
+boto3
